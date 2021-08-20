@@ -12,6 +12,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ S — From SOLID principles 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
 - [O — From SOLID principles 2/5](https://medium.com/@umairkhalid_36029/o-from-solid-principles-2-5-4b7e1468da3a)
+- [L — From SOLID principles 3/5](https://medium.com/@umairkhalid786/l-from-solid-principles-3-5-daa42fc3e853?)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
