@@ -20,6 +20,7 @@
 - [Testing activity for results](https://medium.com/@umairkhalid786/testing-activity-result-contract-by-decoupling-them-from-activity-code-faa0295f5f9c)
 - [Jetpack compose Side Effects - LaunchedEffect](https://medium.com/@umairkhalid786/jetpack-compose-side-effects-launchedeffect-6a7c3676ad9d)
 - [Memory Leaks detection using Android Studio](https://medium.com/@umairkhalid786/the-easiest-way-to-detect-and-fix-memory-leaks-using-android-studio-profiler-tool-and-weakreference-cd7c212908a1)
+- [Jetpack Compose Side Effects — DisposableEffect](https://medium.com/@umairkhalid786/jetpack-compose-side-effects-disposableeffect-effects-that-require-cleanup-fb0861d2620c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
