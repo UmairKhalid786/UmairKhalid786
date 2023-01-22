@@ -21,6 +21,12 @@
 - [Jetpack compose Side Effects - LaunchedEffect](https://medium.com/@umairkhalid786/jetpack-compose-side-effects-launchedeffect-6a7c3676ad9d)
 - [Memory Leaks detection using Android Studio](https://medium.com/@umairkhalid786/the-easiest-way-to-detect-and-fix-memory-leaks-using-android-studio-profiler-tool-and-weakreference-cd7c212908a1)
 - [Jetpack Compose Side Effects — DisposableEffect](https://medium.com/@umairkhalid786/jetpack-compose-side-effects-disposableeffect-effects-that-require-cleanup-fb0861d2620c)
+- [Cold, Hot, and Warm App Launch Times and their impact on user engagement](https://medium.com/@umairkhalid786/cold-hot-and-warm-app-launch-times-and-their-impact-on-user-engagement-d7b759bcc815)
+- [Splash Screen Android 12](https://medium.com/@umairkhalid786/splash-screen-api-android-701cfaaf7b70)
+- [Gain Audio Focus](https://medium.com/@umairkhalid786/gain-audio-focus-in-your-app-b7f81fd465bb)
+- [Sharing Viewmodel in Jetpack compose navigation](https://medium.com/@umairkhalid786/sharing-viewmodel-within-jetpack-compose-navigation-using-hilt-c4f713cd3304)
+- [Why KMM is different from crossplatform technologies ?](https://medium.com/@umairkhalid786/what-is-kmm-why-is-its-real-cross-platform-b7a403443972)
+- [Design a Version Catalog using toml file](https://medium.com/@umairkhalid786/design-a-version-catalog-using-gradle-toml-file-ec80a966698a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
