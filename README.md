@@ -8,6 +8,10 @@
 - 💬 Ask me about **Android, Kotlin, Clean code, ARCore and SOLID!**
 - 📫 How to reach me **umair.khalid786@outlook.com**
 
+
+### Stats
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairKhalid786&show_icons=true&theme=transparent)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [S  — From SOLID principles 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
