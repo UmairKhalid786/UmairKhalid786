@@ -8,9 +8,8 @@
 - 💬 Ask me about **Android, Kotlin, Clean code, ARCore and SOLID!**
 - 📫 How to reach me **umair.khalid786@outlook.com**
 
-
-### Stats
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairKhalid786&show_icons=true&theme=transparent)
+### Commits history
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairKhalid786&" alt="UmairKhalid786" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -43,4 +42,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairKhalid786&" alt="UmairKhalid786" /></p>
+
+### Stats
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairKhalid786&show_icons=true&theme=transparent)
