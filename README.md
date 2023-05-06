@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [S  — From SOLID principles 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
-- [O  — From SOLID principles 2/5](https://medium.com/@umairkhalid_36029/o-from-solid-principles-2-5-4b7e1468da3a)
-- [L  — From SOLID principles 3/5](https://medium.com/@umairkhalid786/l-from-solid-principles-3-5-daa42fc3e853?)
-- [I  — From SOLID principles 4/5](https://medium.com/@umairkhalid786/i-interface-segregation-from-solid-principles-4-5-dcbd7b029823)
-- [D  — From SOLID principles 5/5](https://medium.com/@umairkhalid786/d-dependency-inversion-from-solid-principles-5-5-ef3f72f65c6)
+- [Single Responsibility Principle 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
+- [Open / Closed Principle 2/5](https://medium.com/@umairkhalid_36029/o-from-solid-principles-2-5-4b7e1468da3a)
+- [Liskov Substitution Principle 3/5](https://medium.com/@umairkhalid786/l-from-solid-principles-3-5-daa42fc3e853?)
+- [Interface Segregation Principle 4/5](https://medium.com/@umairkhalid786/i-interface-segregation-from-solid-principles-4-5-dcbd7b029823)
+- [Dependency Inversion Principle 5/5](https://medium.com/@umairkhalid786/d-dependency-inversion-from-solid-principles-5-5-ef3f72f65c6)
 - [Jetpack compose Side Effects - SideEffect](https://medium.com/@umairkhalid786/jetpack-compose-side-effects-sideeffect-1e9995b6d423)
 - [Customize Contract for taking images](https://medium.com/@umairkhalid786/customize-android-contracts-for-selecting-and-taking-images-f17427c6ee9f)
 - [Testing activity for results](https://medium.com/@umairkhalid786/testing-activity-result-contract-by-decoupling-them-from-activity-code-faa0295f5f9c)
