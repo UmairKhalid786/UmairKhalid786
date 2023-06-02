@@ -10,7 +10,7 @@
  
 ### Commits history
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairKhalid786&" alt="UmairKhalid786" /></p>
-
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Single Responsibility Principle 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
