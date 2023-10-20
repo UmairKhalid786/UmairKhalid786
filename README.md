@@ -11,6 +11,9 @@
 ### Commits history
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairKhalid786&" alt="UmairKhalid786" /></p>
 
+### Hacktoberfest
+[![An image of @umairkhalid786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umairkhalid786)](https://holopin.io/@umairkhalid786)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Single Responsibility Principle 1/5](https://medium.com/@umairkhalid_36029/s-from-solid-principles-1-5-dc285c8a79ed)
