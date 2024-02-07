@@ -44,6 +44,3 @@
 
 ### Accepted issues by Google 
 https://issuetracker.google.com/issues/279018129
-
-### Stats
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairKhalid786&show_icons=true&theme=transparent)
