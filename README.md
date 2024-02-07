@@ -7,9 +7,6 @@
 - 📝 I regularly write articles on [https://medium.com/@umairkhalid786](https://medium.com/@umairkhalid786)
 - 💬 Ask me about **Android, Kotlin, Clean code, ARCore and SOLID!**
 - 📫 How to reach me **umair.khalid786@outlook.com**
- 
-### Commits history
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairKhalid786&" alt="UmairKhalid786" /></p>
 
 ### Hacktoberfest
 [![An image of @umairkhalid786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umairkhalid786)](https://holopin.io/@umairkhalid786)
