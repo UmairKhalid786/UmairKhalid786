@@ -4,6 +4,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UmairKhalid786&label=Profile%20views&color=0e75b6&style=flat" alt="UmairKhalid786" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@umairkhalid786](https://medium.com/@umairkhalid786)
+- 📝 Some of my articles on [https://medium.com/@umairkhalid786](https://medium.com/@umairkhalid786)
 - 💬 Ask me about **Android, Kotlin**
-- 📫 How to reach me **umair.khalid786@outlook.com**
